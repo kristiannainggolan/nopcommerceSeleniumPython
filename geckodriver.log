@@ -1,0 +1,23 @@
+1679716837773	geckodriver	INFO	Listening on 127.0.0.1:58303
+1679716840818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRISTI~1.PRA\\AppData\\Local\\Temp\\rust_mozprofilelG1i04"
+1679716841741	Marionette	INFO	Marionette enabled
+1679716841747	Marionette	INFO	Listening on port 58315
+Read port: 58315
+WebDriver BiDi listening on ws://127.0.0.1:58304
+1679716841941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRISTI~1.PRA\\AppData\\Local\\Temp\\rust_mozprofilelG1i04\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58304/devtools/browser/258af876-89b7-4a28-8df2-228dc171f414
+1679716848632	Marionette	INFO	Stopped listening on port 58315
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1679716849557	geckodriver	INFO	Listening on 127.0.0.1:58349
+1679716852551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KRISTI~1.PRA\\AppData\\Local\\Temp\\rust_mozprofilecLyyi6"
+1679716852952	Marionette	INFO	Marionette enabled
+1679716852957	Marionette	INFO	Listening on port 58361
+Read port: 58361
+WebDriver BiDi listening on ws://127.0.0.1:58350
+1679716853070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KRISTI~1.PRA\\AppData\\Local\\Temp\\rust_mozprofilecLyyi6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58350/devtools/browser/71a3f33c-8af5-457b-89d9-ba076ba705c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1679716859896	Marionette	INFO	Stopped listening on port 58361
